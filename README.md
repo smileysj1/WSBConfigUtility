@@ -7,7 +7,7 @@ Configuration is generated from the config.wsb.template file.  The __CWD__ and _
 
 The mapped folders have the <ReadOnly> option set to true for security reasons.
     
-The generated .wsb configuration calls `Scripts\InstallUtilities.cmd` to install your preffered sandbox utilities.  Some utilities are included by default, but you can add your own.
+The generated .wsb configuration calls `Scripts\InstallUtilities.cmd` when the sandbox starts to install your preffered sandbox utilities.  Some utilities are included by default, but you can add your own.
 ### Default Utilities
 - VS Code (latest stable)
 - 7-zip (21.07)
