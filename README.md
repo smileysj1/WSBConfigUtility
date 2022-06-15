@@ -12,6 +12,9 @@ The generated .wsb configuration calls `Scripts\InstallUtilities.cmd` when the s
 - VS Code (latest stable, editor runs on sandbox startup)
 - 7-zip (21.07, installs to desktop, it's context menu items are available in windows explorer)
 
+### Configuration Resources
+https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-configure-using-wsb-file
+    
 ---
 ## Usage
 - Clone the repository.
