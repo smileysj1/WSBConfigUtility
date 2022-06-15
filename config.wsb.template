@@ -1,17 +1,17 @@
 <Configuration>
     <MappedFolders>
         <MappedFolder>
-            <HostFolder>__CWD__/SandboxScripts</HostFolder>
-            <SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop\SandboxScripts</SandboxFolder>
+            <HostFolder>__CWD__/Scripts</HostFolder>
+            <SandboxFolder>C:\Scripts</SandboxFolder>
             <ReadOnly>true</ReadOnly>
         </MappedFolder>
         <MappedFolder>
             <HostFolder>__DOWNLOADS__</HostFolder>
-            <SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop\Downloads</SandboxFolder>
+            <SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop\My Downloads</SandboxFolder>
             <ReadOnly>true</ReadOnly>
         </MappedFolder>
     </MappedFolders>
     <LogonCommand>
-        <Command>C:\Users\WDAGUtilityAccount\Desktop\SandboxScripts\InstallUtilities.cmd</Command>
+        <Command>C:\Scripts\InstallUtilities.cmd</Command>
     </LogonCommand>
 </Configuration>
