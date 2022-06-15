@@ -9,8 +9,8 @@ The mapped folders have the <ReadOnly> option set to true for security reasons.
     
 The generated .wsb configuration calls `Scripts\InstallUtilities.cmd` when the sandbox starts to install your preffered sandbox utilities.  Some utilities are included by default, but you can add your own.
 ### Default Utilities
-- VS Code (latest stable)
-- 7-zip (21.07)
+- VS Code (latest stable, editor runs on sandbox startup)
+- 7-zip (21.07, installs to desktop, it's context menu items are available in windows explorer)
 
 ---
 ## Usage
