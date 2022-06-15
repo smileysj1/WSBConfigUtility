@@ -16,4 +16,4 @@ The generated .wsb configuration calls `Scripts\InstallUtilities.cmd` when the s
 ## Usage
 - Clone the repository.
 - Run `WSBConfigUtility.ps1`
-- Start using the generated `StartSandboxWithUtilities.wsb` file.
+- Start sandbox using the generated `StartSandboxWithUtilities.wsb` file.
